@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MindSharpener</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+
+</resources>
